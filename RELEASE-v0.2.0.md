@@ -4,7 +4,7 @@ Download the package for your editor below. Both packages require macOS 13+ on A
 
 Save your project and quit the editor before installing. Both installers completed successfully on September 30, 2026. Premiere Arrange Photos was tested with three selected photos, followed by one Undo restoring the original timeline. Seven planner tests pass.
 
-Packages are not Developer ID signed or notarized; native binaries are ad-hoc signed. The free edition of Resolve, Intel Mac and Windows are untested/unsupported. See the README for workflow limits and installation paths. Face detection requires a manual coverage review.
+Both packages are Developer ID signed, notarized by Apple, and include stapled tickets. The v0.2.0 downloads were updated on September 30, 2026 with these signed packages; checksums were updated accordingly. The free edition of Resolve, Intel Mac and Windows are untested/unsupported. See the README for workflow limits and installation paths. Face detection requires a manual coverage review.
 
 Free for personal and commercial use under the included freeware license; third-party components retain their bundled licenses.
 

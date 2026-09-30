@@ -20,7 +20,7 @@ Requires an **Apple Silicon Mac running macOS 13 or later**. Intel Mac and Windo
 | DaVinci Resolve | Studio 21.1 or later | [WALKABOUT for DaVinci Resolve 0.2.0](https://github.com/RamonLinares/walkabout/releases/download/v0.2.0/WALKABOUT-for-DaVinci-Resolve-0.2.0.pkg) |
 | Adobe Premiere Pro | Premiere Pro 2026; tested with 26.5.1 | [WALKABOUT for Premiere Pro 0.2.0](https://github.com/RamonLinares/walkabout/releases/download/v0.2.0/WALKABOUT-for-Premiere-Pro-0.2.0.pkg) |
 
-Save your work and quit the editor, open its installer, then reopen the editor. You can install both packages. Each package installs all four tools and the required models, helpers, guides and third-party notices. The effects install for all users; administrator authorization may be required. The packages are not Developer ID signed or notarized; their native binaries are ad-hoc signed.
+Save your work and quit the editor, open its installer, then reopen the editor. You can install both packages. Each package installs all four tools and the required models, helpers, guides and third-party notices. The effects install for all users; administrator authorization may be required. Both packages are Developer ID signed, accepted by Apple’s notarization service, and include stapled notarization tickets.
 
 **Resolve:** effects appear under **Open FX → WALKABOUT**. Arrange Photos appears under **Workspace → Scripts → WALKABOUT**, sometimes inside Utility. The free edition of Resolve has not been tested.
 
