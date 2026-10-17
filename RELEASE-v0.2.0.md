@@ -1,11 +1,13 @@
 Four free tools for photo-walk videos: Face Privacy, Photo Presentation, Arrange Photos and Contact Sheet / Best of the Walk.
 
-Download the package for your editor below. Both packages require macOS 13+ on Apple Silicon. Resolve requires Studio 21.1+; Premiere requires Premiere Pro 2026 (tested with 26.5.1).
+Download the package for your editor below. Both packages require macOS 13+ on Apple Silicon. Resolve requires 21.1+ (Free or Studio); Premiere requires Premiere Pro 2026 (tested with 26.5.1).
 
 Save your project and quit the editor before installing. Both installers completed successfully on September 30, 2026. Premiere Arrange Photos was tested with three selected photos, followed by one Undo restoring the original timeline. Seven planner tests pass.
 
-Both packages are Developer ID signed, notarized by Apple, and include stapled tickets. The v0.2.0 downloads were updated on September 30, 2026 with these signed packages; checksums were updated accordingly. The free edition of Resolve, Intel Mac and Windows are untested/unsupported. See the README for workflow limits and installation paths. Face detection requires a manual coverage review.
+Both packages are Developer ID signed, notarized by Apple, and include stapled tickets. The v0.2.0 downloads were updated on September 30, 2026 with these signed packages; checksums were updated accordingly. Resolve Free compatibility was confirmed by the creator on October 17, 2026. Intel Mac and Windows are unsupported. See the README for workflow limits and installation paths. Face detection requires a manual coverage review.
 
 Free for personal and commercial use under the included freeware license; third-party components retain their bundled licenses.
 
 SHA-256 hashes are in SHA256SUMS. [Instructions and demonstrations](https://smallweblab.com/walkabout/).
+
+On October 17, 2026, the Resolve installer was refreshed with Free edition compatibility documentation and re-signed, notarized and stapled. Its checksum was updated.
